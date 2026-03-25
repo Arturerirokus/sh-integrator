@@ -1,0 +1,9 @@
+[submodule "modules/storage"]
+	path = modules/storage
+	url = https://github.com/Arturerirokus/sh-storage.git
+[submodule "modules/logic"]
+	path = modules/logic
+	url = https://github.com/Arturerirokus/sh-logic.git
+[submodule "modules/ui"]
+	path = modules/ui
+	url = https://github.com/Arturerirokus/sh-ui.git
